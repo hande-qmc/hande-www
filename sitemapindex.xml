@@ -5,10 +5,6 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://hande.org.uk/galleries/rss.xml</loc>
-  <lastmod>2014-07-16</lastmod>
- </sitemap>
- <sitemap>
   <loc>http://hande.org.uk/rss.xml</loc>
   <lastmod>2014-07-16</lastmod>
  </sitemap>
