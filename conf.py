@@ -24,7 +24,7 @@ BLOG_TITLE = "HANDE quantum Monte Carlo"  # (translatable)
 SITE_URL = "http://hande.org.uk"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "http://hande.org.uk"
+BASE_URL = "http://hande.org.uk/"
 BLOG_EMAIL = "j.spencer@imperial.ac.uk"
 BLOG_DESCRIPTION = "An open source package for stochastic quantum chemistry"  # (translatable)
 
@@ -708,7 +708,7 @@ UNSLUGIFY_TITLES = True
 # }
 
 # If webassets is installed, bundle JS and CSS to make site loading faster
-# USE_BUNDLES = True
+USE_BUNDLES = False
 
 # Plugins you don't want to use. Be careful :-)
 # DISABLED_PLUGINS = ["render_galleries"]
