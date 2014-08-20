@@ -40,7 +40,9 @@ Past contributors:
 Funding
 -------
 
-We are greatful for funding from EPSRC, Royal Society and Royal Commission of 1851 and the research environment provided by the Thomas Young Centre.
+Our team receives funding from EPSRC, the Royal Society, and the Royal Commission for
+the Exhibition of 1851. We are also grateful for a research environment provided by
+the Thomas Young Centre.
 
 References
 ----------
