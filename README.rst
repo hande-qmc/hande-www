@@ -26,8 +26,9 @@ Code, theory, applications, etc:
 * James Spencer (Imperial College London)
 * Alex Thom (University of Cambridge)
 * Nick Blunt (University of Cambridge)
-* William Vigor (Imperial College London)
 * Fionn Malone (Imperial College London)
+* Ruth Franklin (University of Cambridge)
+* William Vigor (Imperial College London)
 * James Shepherd (Rice University)
 * Matthew Foulkes (Imperial College London)
 
