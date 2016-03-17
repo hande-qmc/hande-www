@@ -36,8 +36,10 @@ Code, theory, applications, etc:
 * Nick Blunt (University of Cambridge)
 * Fionn Malone (Imperial College London)
 * Ruth Franklin (University of Cambridge)
+* Charlie Scott (University of Cambridge)
+* Verena Neufeld (University of Cambridge)
 * William Vigor (Imperial College London)
-* James Shepherd (Rice University)
+* James Shepherd (MIT)
 * Matthew Foulkes (Imperial College London)
 
 Past contributors:
