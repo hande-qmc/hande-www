@@ -87,4 +87,4 @@ References
 .. [2] Stochastic Coupled Cluster Theory, A.J.W. Thom, Phys. Rev. Lett. 105, 263004 (2010).
 .. [3] Survival of the Fittest: Accelerating Convergence in Full Configuration-Interaction Quantum Monte Carlo , D. Cleland, G.H. Booth, A. Alavi, J. Chem. Phys., 132, 041103 (2010).
 .. [4] Semistochastic Projector Monte Carlo Method.  F. Petruzielo, A. Holmes, H. Changlani, M. Nightingale, C. Umrigar, Phys. Rev. Lett. 109, 230201 (2012).
-.. [5] Blunt, T. W. Rogers, J. S. Spencer, and W. M. C. Foulkes, Density-matrix quantum Monte Carlo method. Phys. Rev. B, 89, 245124 (2014).
+.. [5] Density-matrix quantum Monte Carlo method.  N.S. Blunt, T. W. Rogers, J. S. Spencer, and W. M. C. Foulkes,  Phys. Rev. B, 89, 245124 (2014).
