@@ -15,7 +15,7 @@ HANDE contains highly scalable implementations of the full configuration interac
 quantum Monte Carlo [1]_ and coupled cluster Monte Carlo [2]_ methods including the
 initiator approximation [3]_ and semi-stochastic approach [4]_, as well as the
 density matrix quantum Monte Carlo method [5]_.
-HANDE can treat a variety of quantum systems, including the molecular systems (via integrals obtained from a quantum chemistry package) and the uniform electron gas as well as the Hubbard and Heisenberg models.
+HANDE can treat a variety of quantum systems, including molecular systems (via integrals obtained from a quantum chemistry package) and the uniform electron gas as well as the Hubbard and Heisenberg models.
 
 We are currently preparing HANDE for a 1.0 release.  An early release candidate can be
 obtained from https://github.com/hande-qmc/hande.
@@ -47,6 +47,31 @@ Past contributors:
 * Thomas Rogers (Imperial College London)
 * Will Handley (University of Cambridge)
 * Joseph Weston (Imperial College London)
+
+Publications
+------------
+
+N.S. Blunt, T.W. Rogers, J.S. Spencer, W.M.C. Foulkes. Density-matrix quantum Monte Carlo method, `Phys. Rev. B, 89, 245124 (2014) <http://dx.doi.org/10.1103/PhysRevB.89.245124>`_.
+
+R.S.T. Franklin, J.S. Spencer, A. Zoccante, A.J.W. Thom. Linked coupled cluster Monte Carlo, `J Chem. Phys. 144, 044111 (2016) <http://dx.doi.org/10.1063/1.4940317>`_.
+
+F.D. Malone, N.S. Blunt, J.J. Shepherd, D.K.K. Lee, J.S. Spencer, W.M.C. Foulkes. Interaction picture density matrix quantum Monte Carlo, `J. Chem. Phys. 143, 044116 (2015) <http://dx.doi.org/10.1063/1.4927434>`_.
+
+F.D. Malone, N.S. Blunt, E.W. Brown, D.K.K. Lee, J.S. Spencer, W.M.C. Foulkes, J.J. Shepherd. Accurate exchange-correlation energies for the warm dense electron gas, `arXiv:1602.05104 [cond-mat.str-el] <http://arxiv.org/abs/1602.05104>`_.
+
+J.J. Shepherd, G.E. Scuseria, J.S. Spencer. Sign problem in full configuration interaction quantum Monte Carlo: Linear and sublinear representation regimes for the exact wave function, `Phys. Rev. B 90, 155130 (2014) <http://dx.doi.org/10.1103/PhysRevB.90.155130>`_.
+
+J.J. Shepherd, T.M. Henderson, G.E. Scuseria. Using full configuration interaction quantum Monte Carlo in a seniority zero space to investigate the correlation energy equivalence of pair coupled cluster doubles and doubly occupied configuration interaction, `J. Chem. Phys. 144, 094112 (2016) <http://dx.doi.org/10.1063/1.4942770>`_.
+
+J.S. Spencer, N.S. Blunt, W.M.C. Foulkes. The sign problem and population dynamics in the full configuration interaction quantum Monte Carlo method, `J. Chem. Phys. 136, 054110 (2012) <http://dx.doi.org/10.1063/1.3681396>`_.
+
+J.S. Spencer, N.S. Blunt, W.A. Vigor, F.D. Malone, W.M.C. Foulkes, J.J. Shepherd, A.J.W. Thom. Open-Source Development Experiences in Scientific Software: The HANDE Quantum Monte Carlo Project, `J. Open Research Software 3(1), 9 (2015) <http://dx.doi.org/10.5334/jors.bw>`_.
+
+J.S. Spencer, A.J.W. Thom. Developments in stochastic coupled cluster theory: The initiator approximation and application to the uniform electron gas, `J. Chem. Phys. 144, 084108 (2016) <http://dx.doi.org/10.1063/1.4942173>`_.
+
+W.A. Vigor, J.S. Spencer, M.J. Bearpark, A.J.W. Thom. Understanding and improving the efficiency of full configuration interaction quantum Monte Carlo, `J. Chem. Phys. 144, 094110 (2016) <http://dx.doi.org/10.1063/1.4943113>`_.
+
+W.A. Vigor, J.S. Spencer, M.J. Bearpark, A.J.W. Thom. Minimising biases in full configuration interaction quantum Monte Carlo, `J. Chem. Phys. 142, 104101 (2015) <http://dx.doi.org/10.1063/1.4913644>`_.
 
 Funding
 -------
