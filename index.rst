@@ -51,27 +51,27 @@ Past contributors:
 Publications
 ------------
 
-N.S. Blunt, T.W. Rogers, J.S. Spencer, W.M.C. Foulkes. Density-matrix quantum Monte Carlo method, `Phys. Rev. B, 89, 245124 (2014) <http://dx.doi.org/10.1103/PhysRevB.89.245124>`_.
-
-R.S.T. Franklin, J.S. Spencer, A. Zoccante, A.J.W. Thom. Linked coupled cluster Monte Carlo, `J Chem. Phys. 144, 044111 (2016) <http://dx.doi.org/10.1063/1.4940317>`_.
-
-F.D. Malone, N.S. Blunt, J.J. Shepherd, D.K.K. Lee, J.S. Spencer, W.M.C. Foulkes. Interaction picture density matrix quantum Monte Carlo, `J. Chem. Phys. 143, 044116 (2015) <http://dx.doi.org/10.1063/1.4927434>`_.
-
 F.D. Malone, N.S. Blunt, E.W. Brown, D.K.K. Lee, J.S. Spencer, W.M.C. Foulkes, J.J. Shepherd. Accurate exchange-correlation energies for the warm dense electron gas, `arXiv:1602.05104 [cond-mat.str-el] <http://arxiv.org/abs/1602.05104>`_.
-
-J.J. Shepherd, G.E. Scuseria, J.S. Spencer. Sign problem in full configuration interaction quantum Monte Carlo: Linear and sublinear representation regimes for the exact wave function, `Phys. Rev. B 90, 155130 (2014) <http://dx.doi.org/10.1103/PhysRevB.90.155130>`_.
 
 J.J. Shepherd, T.M. Henderson, G.E. Scuseria. Using full configuration interaction quantum Monte Carlo in a seniority zero space to investigate the correlation energy equivalence of pair coupled cluster doubles and doubly occupied configuration interaction, `J. Chem. Phys. 144, 094112 (2016) <http://dx.doi.org/10.1063/1.4942770>`_.
 
-J.S. Spencer, N.S. Blunt, W.M.C. Foulkes. The sign problem and population dynamics in the full configuration interaction quantum Monte Carlo method, `J. Chem. Phys. 136, 054110 (2012) <http://dx.doi.org/10.1063/1.3681396>`_.
-
-J.S. Spencer, N.S. Blunt, W.A. Vigor, F.D. Malone, W.M.C. Foulkes, J.J. Shepherd, A.J.W. Thom. Open-Source Development Experiences in Scientific Software: The HANDE Quantum Monte Carlo Project, `J. Open Research Software 3(1), 9 (2015) <http://dx.doi.org/10.5334/jors.bw>`_.
+W.A. Vigor, J.S. Spencer, M.J. Bearpark, A.J.W. Thom. Understanding and improving the efficiency of full configuration interaction quantum Monte Carlo, `J. Chem. Phys. 144, 094110 (2016) <http://dx.doi.org/10.1063/1.4943113>`_.
 
 J.S. Spencer, A.J.W. Thom. Developments in stochastic coupled cluster theory: The initiator approximation and application to the uniform electron gas, `J. Chem. Phys. 144, 084108 (2016) <http://dx.doi.org/10.1063/1.4942173>`_.
 
-W.A. Vigor, J.S. Spencer, M.J. Bearpark, A.J.W. Thom. Understanding and improving the efficiency of full configuration interaction quantum Monte Carlo, `J. Chem. Phys. 144, 094110 (2016) <http://dx.doi.org/10.1063/1.4943113>`_.
+R.S.T. Franklin, J.S. Spencer, A. Zoccante, A.J.W. Thom. Linked coupled cluster Monte Carlo, `J Chem. Phys. 144, 044111 (2016) <http://dx.doi.org/10.1063/1.4940317>`_.
+
+J.S. Spencer, N.S. Blunt, W.A. Vigor, F.D. Malone, W.M.C. Foulkes, J.J. Shepherd, A.J.W. Thom. Open-Source Development Experiences in Scientific Software: The HANDE Quantum Monte Carlo Project, `J. Open Research Software 3(1), 9 (2015) <http://dx.doi.org/10.5334/jors.bw>`_.
 
 W.A. Vigor, J.S. Spencer, M.J. Bearpark, A.J.W. Thom. Minimising biases in full configuration interaction quantum Monte Carlo, `J. Chem. Phys. 142, 104101 (2015) <http://dx.doi.org/10.1063/1.4913644>`_.
+
+F.D. Malone, N.S. Blunt, J.J. Shepherd, D.K.K. Lee, J.S. Spencer, W.M.C. Foulkes. Interaction picture density matrix quantum Monte Carlo, `J. Chem. Phys. 143, 044116 (2015) <http://dx.doi.org/10.1063/1.4927434>`_.
+
+J.J. Shepherd, G.E. Scuseria, J.S. Spencer. Sign problem in full configuration interaction quantum Monte Carlo: Linear and sublinear representation regimes for the exact wave function, `Phys. Rev. B 90, 155130 (2014) <http://dx.doi.org/10.1103/PhysRevB.90.155130>`_.
+
+N.S. Blunt, T.W. Rogers, J.S. Spencer, W.M.C. Foulkes. Density-matrix quantum Monte Carlo method, `Phys. Rev. B, 89, 245124 (2014) <http://dx.doi.org/10.1103/PhysRevB.89.245124>`_.
+
+J.S. Spencer, N.S. Blunt, W.M.C. Foulkes. The sign problem and population dynamics in the full configuration interaction quantum Monte Carlo method, `J. Chem. Phys. 136, 054110 (2012) <http://dx.doi.org/10.1063/1.3681396>`_.
 
 Funding
 -------
@@ -87,4 +87,4 @@ References
 .. [2] Stochastic Coupled Cluster Theory, A.J.W. Thom, Phys. Rev. Lett. 105, 263004 (2010).
 .. [3] Survival of the Fittest: Accelerating Convergence in Full Configuration-Interaction Quantum Monte Carlo , D. Cleland, G.H. Booth, A. Alavi, J. Chem. Phys., 132, 041103 (2010).
 .. [4] Semistochastic Projector Monte Carlo Method.  F. Petruzielo, A. Holmes, H. Changlani, M. Nightingale, C. Umrigar, Phys. Rev. Lett. 109, 230201 (2012).
-.. [5] Blunt, T. W. Rogers, J. S. Spencer, and W. M. C. Foulkes, Density-matrix quantum Monte Carlo method. Phys. Rev. B, 89, 245124 (2014).
+.. [5] Density-matrix quantum Monte Carlo method.  N.S. Blunt, T. W. Rogers, J. S. Spencer, and W. M. C. Foulkes,  Phys. Rev. B, 89, 245124 (2014).
