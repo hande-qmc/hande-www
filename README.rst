@@ -57,7 +57,11 @@ Past contributors:
 Publications
 ------------
 
-F.D. Malone, N.S. Blunt, E.W. Brown, D.K.K. Lee, J.S. Spencer, W.M.C. Foulkes, J.J. Shepherd. Accurate exchange-correlation energies for the warm dense electron gas, `arXiv:1602.05104 [cond-mat.str-el] <http://arxiv.org/abs/1602.05104>`_.
+V.A. Neufeld, A.J.W. Thom. A study of the dense uniform electron gas with high orders of coupled cluster, `J. Chem. Phys. 147, 194105 (2017) <https://doi.org/10.1063/1.5003794>`_.
+
+C.J.C. Scott, A.J.W. Thom. Stochastic coupled cluster theory: Efficient sampling of the coupled cluster expansion, `J. Chem. Phys. 147, 124105 (2017) <https://doi.org/10.1063/1.4991795>`_.
+
+F.D. Malone, N.S. Blunt, E.W. Brown, D.K.K. Lee, J.S. Spencer, W.M.C. Foulkes, J.J. Shepherd. Accurate exchange-correlation energies for the warm dense electron gas, `Phys. Rev. Lett. 117, 115701 (2016) <https://doi.org/10.1103/PhysRevLett.117.115701>`_.
 
 J.J. Shepherd, T.M. Henderson, G.E. Scuseria. Using full configuration interaction quantum Monte Carlo in a seniority zero space to investigate the correlation energy equivalence of pair coupled cluster doubles and doubly occupied configuration interaction, `J. Chem. Phys. 144, 094112 (2016) <http://dx.doi.org/10.1063/1.4942770>`_.
 
