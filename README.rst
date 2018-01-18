@@ -44,11 +44,12 @@ Code, theory, applications, etc:
 * Charlie Scott (University of Cambridge)
 * Verena Neufeld (University of Cambridge)
 * William Vigor (Imperial College London)
-* James Shepherd (MIT)
+* James Shepherd (University of Iowa)
 * Matthew Foulkes (Imperial College London)
 
 Past contributors:
 
+* Seonghoon Choi (was at University of Cambridge, now EPFL Lausanne)
 * Thomas Rogers (Imperial College London)
 * Will Handley (University of Cambridge)
 * Joseph Weston (Imperial College London)
