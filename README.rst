@@ -81,9 +81,10 @@ J.S. Spencer, N.S. Blunt, W.M.C. Foulkes. The sign problem and population dynami
 Funding
 -------
 
-Our team receives funding from EPSRC, the Royal Society, and the Royal Commission for
-the Exhibition of 1851. We are also grateful for a research environment provided by
-the Thomas Young Centre.
+Our team receives funding from EPSRC, the Royal Society, the Royal Commission for
+the Exhibition of 1851, ARCHER Leadership Grant, EPSRC Centre for Doctoral Training in Computational
+Methods for Materials Science.
+We are also grateful for a research environment provided by the Thomas Young Centre.
 
 References
 ----------
