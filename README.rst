@@ -9,6 +9,8 @@
 HANDE
 =====
 
+***We have just release HANDE version 1.2***
+
 HANDE is an open-source software package for stochastic quantum chemistry under active
 development, run by a non-profit community of UK academics headed by Dr James Spencer
 (Imperial College London) and Dr Alex Thom (University of Cambridge).
@@ -21,7 +23,7 @@ HANDE can treat a variety of quantum systems, including molecular systems (via
 integrals obtained from a quantum chemistry package) and the uniform electron
 gas as well as the Hubbard and Heisenberg models.
 
-HANDE version 1.0 can be obtained from https://github.com/hande-qmc/hande.
+HANDE version 1.2 can be obtained from https://github.com/hande-qmc/hande.
 
 For any questions on using and/or developing HANDE, please contact James or Alex in the
 first instance:
