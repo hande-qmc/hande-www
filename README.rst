@@ -9,7 +9,7 @@
 HANDE
 =====
 
-***We have just release HANDE version 1.2***
+***We have just released HANDE version 1.2***
 
 HANDE is an open-source software package for stochastic quantum chemistry under active
 development, run by a non-profit community of UK academics headed by Dr James Spencer
