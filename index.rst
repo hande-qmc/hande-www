@@ -9,6 +9,8 @@
 HANDE
 =====
 
+***We have just released HANDE version 1.2***
+
 HANDE is an open-source software package for stochastic quantum chemistry under active
 development, run by a non-profit community of UK academics headed by Dr James Spencer
 (Imperial College London) and Dr Alex Thom (University of Cambridge).
@@ -21,7 +23,7 @@ HANDE can treat a variety of quantum systems, including molecular systems (via
 integrals obtained from a quantum chemistry package) and the uniform electron
 gas as well as the Hubbard and Heisenberg models.
 
-HANDE version 1.0 can be obtained from https://github.com/hande-qmc/hande.
+HANDE version 1.2 can be obtained from https://github.com/hande-qmc/hande.
 
 For any questions on using and/or developing HANDE, please contact James or Alex in the
 first instance:
@@ -42,11 +44,12 @@ Code, theory, applications, etc:
 * Charlie Scott (University of Cambridge)
 * Verena Neufeld (University of Cambridge)
 * William Vigor (Imperial College London)
-* James Shepherd (MIT)
+* James Shepherd (University of Iowa)
 * Matthew Foulkes (Imperial College London)
 
 Past contributors:
 
+* Seonghoon Choi (was at University of Cambridge, now EPFL Lausanne)
 * Thomas Rogers (Imperial College London)
 * Will Handley (University of Cambridge)
 * Joseph Weston (Imperial College London)
@@ -54,7 +57,11 @@ Past contributors:
 Publications
 ------------
 
-F.D. Malone, N.S. Blunt, E.W. Brown, D.K.K. Lee, J.S. Spencer, W.M.C. Foulkes, J.J. Shepherd. Accurate exchange-correlation energies for the warm dense electron gas, `arXiv:1602.05104 [cond-mat.str-el] <http://arxiv.org/abs/1602.05104>`_.
+V.A. Neufeld, A.J.W. Thom. A study of the dense uniform electron gas with high orders of coupled cluster, `J. Chem. Phys. 147, 194105 (2017) <https://doi.org/10.1063/1.5003794>`_.
+
+C.J.C. Scott, A.J.W. Thom. Stochastic coupled cluster theory: Efficient sampling of the coupled cluster expansion, `J. Chem. Phys. 147, 124105 (2017) <https://doi.org/10.1063/1.4991795>`_.
+
+F.D. Malone, N.S. Blunt, E.W. Brown, D.K.K. Lee, J.S. Spencer, W.M.C. Foulkes, J.J. Shepherd. Accurate exchange-correlation energies for the warm dense electron gas, `Phys. Rev. Lett. 117, 115701 (2016) <https://doi.org/10.1103/PhysRevLett.117.115701>`_.
 
 J.J. Shepherd, T.M. Henderson, G.E. Scuseria. Using full configuration interaction quantum Monte Carlo in a seniority zero space to investigate the correlation energy equivalence of pair coupled cluster doubles and doubly occupied configuration interaction, `J. Chem. Phys. 144, 094112 (2016) <http://dx.doi.org/10.1063/1.4942770>`_.
 
@@ -79,9 +86,10 @@ J.S. Spencer, N.S. Blunt, W.M.C. Foulkes. The sign problem and population dynami
 Funding
 -------
 
-Our team receives funding from EPSRC, the Royal Society, and the Royal Commission for
-the Exhibition of 1851. We are also grateful for a research environment provided by
-the Thomas Young Centre.
+Our team receives funding from EPSRC, the Royal Society, the Royal Commission for
+the Exhibition of 1851, ARCHER Leadership Grant, EPSRC Centre for Doctoral Training in Computational
+Methods for Materials Science.
+We are also grateful for a research environment provided by the Thomas Young Centre.
 
 References
 ----------
