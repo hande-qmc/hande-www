@@ -88,7 +88,7 @@ Funding
 
 Our team receives funding from EPSRC, the Royal Society, the Royal Commission for
 the Exhibition of 1851, ARCHER Leadership Grant, EPSRC Centre for Doctoral Training in Computational
-Methods for Materials Science.
+Methods for Materials Science, Sims Fund, St John's college Cambridge.
 We are also grateful for a research environment provided by the Thomas Young Centre.
 
 References
