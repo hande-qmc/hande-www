@@ -39,7 +39,7 @@ Code, theory, applications, etc:
 * James Spencer (Imperial College London)
 * Alex Thom (University of Cambridge)
 * Nick Blunt (University of Cambridge)
-* Fionn Malone (Imperial College London)
+* Fionn Malone (Lawrence Livermore National Laboratory)
 * Ruth Franklin (University of Cambridge)
 * Charlie Scott (University of Cambridge)
 * Verena Neufeld (University of Cambridge)
