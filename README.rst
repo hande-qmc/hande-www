@@ -9,11 +9,9 @@
 HANDE
 =====
 
-***We have just released HANDE version 1.2***
-
 HANDE is an open-source software package for stochastic quantum chemistry under active
-development, run by a non-profit community of UK academics headed by Dr James Spencer
-(Imperial College London) and Dr Alex Thom (University of Cambridge).
+development, run by a non-profit community of UK academics headed by Dr Alex Thom (University of Cambridge),
+and formerly Dr James Spencer (Imperial College London).
 
 HANDE contains highly scalable implementations of the full configuration interaction
 quantum Monte Carlo [1]_ and coupled cluster Monte Carlo [2]_ methods including the
@@ -23,12 +21,11 @@ HANDE can treat a variety of quantum systems, including molecular systems (via
 integrals obtained from a quantum chemistry package) and the uniform electron
 gas as well as the Hubbard and Heisenberg models.
 
-HANDE version 1.2 can be obtained from https://github.com/hande-qmc/hande.
+HANDE version 1.3 can be obtained from https://github.com/hande-qmc/hande.
 
-For any questions on using and/or developing HANDE, please contact James or Alex in the
+For any questions on using and/or developing HANDE, please contact Alex in the
 first instance:
 
-| James Spencer, j.spencer@imperial.ac.uk
 | Alex Thom, ajwt3@cam.ac.uk
 
 HANDE development team
@@ -36,15 +33,13 @@ HANDE development team
 
 Code, theory, applications, etc:
 
-* James Spencer (Imperial College London)
 * Alex Thom (University of Cambridge)
 * Nick Blunt (University of Cambridge)
 * Fionn Malone (Lawrence Livermore National Laboratory)
-* Ruth Franklin (University of Cambridge)
 * Charlie Scott (University of Cambridge)
 * Verena Neufeld (University of Cambridge)
-* William Vigor (Imperial College London)
 * James Shepherd (University of Iowa)
+* James Spencer (Imperial College London)
 * Matthew Foulkes (Imperial College London)
 
 Past contributors:
@@ -53,9 +48,19 @@ Past contributors:
 * Thomas Rogers (Imperial College London)
 * Will Handley (University of Cambridge)
 * Joseph Weston (Imperial College London)
+* William Vigor (Imperial College London)
+* Ruth Franklin (University of Cambridge)
+
+For an overview of HANDE see
+
+J.S. Spencer, N.S. Blunt, S. Choi, J. Etrych, M.-A. Filip, W.M.C. Foulkes, R.S.T. Franklin, W.J. Handley, F.D. Malone, V.A. Neufeld, R. Di Remigio, T.W. Rogers, C.J.C. Scott, J.J. Shepherd, J. Weston, W.A. Vigor, R. Xu, A.J.W. Thom. The HANDE-QMC project: open-source stochastic quantum chemistry from the ground state up, `arXiv preprint arXiv:1811.11679 (2018) <https://arxiv.org/abs/1811.11679>`_.
+
 
 Publications
 ------------
+V.A. Neufeld, A.J.W. Thom. Exciting determinants in Quantum Monte Carlo: Loading the dice with fast, low memory weights, `J. Chem. Theory Comput. in press (2019) <https://doi.org/10.1021/acs.jctc.8b00844>`_
+
+J.S. Spencer, V.A. Neufeld, W.A. Vigor, R.S.T. Franklin, A.J.W. Thom. Large scale parallelization in stochastic coupled cluster,  `J. Chem. Phys. 149, 204103 (2018) <https://doi.org/10.1063/1.5047420>`_.
 
 V.A. Neufeld, A.J.W. Thom. A study of the dense uniform electron gas with high orders of coupled cluster, `J. Chem. Phys. 147, 194105 (2017) <https://doi.org/10.1063/1.5003794>`_.
 
