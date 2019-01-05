@@ -38,6 +38,8 @@ Code, theory, applications, etc:
 * Fionn Malone (Lawrence Livermore National Laboratory)
 * Charlie Scott (University of Cambridge)
 * Verena Neufeld (University of Cambridge)
+* Roberto Di Remigio (University of Tromsø and Virginia Tech.)
+* Maria-Andreea Filip (University of Cambridge)
 * James Shepherd (University of Iowa)
 * James Spencer (Imperial College London)
 * Matthew Foulkes (Imperial College London)
