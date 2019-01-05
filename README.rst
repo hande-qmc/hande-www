@@ -66,7 +66,7 @@ V.A. Neufeld, A.J.W. Thom. A study of the dense uniform electron gas with high o
 
 C.J.C. Scott, A.J.W. Thom. Stochastic coupled cluster theory: Efficient sampling of the coupled cluster expansion, `J. Chem. Phys. 147, 124105 (2017) <https://doi.org/10.1063/1.4991795>`_.
 
-T. Dornheim, S. Groth, F. D. Malone, T. Schoof, T. Sjostrom, W.M.C. Foulkes, M. Bonitz, `Phys. Plasmas 24, 056303 (2017) <https://doi.org/10.1063/1.4977920>`_.
+T Dornheim, S. Groth, F. D. Malone, T. Schoof, T. Sjostrom, W.M.C. Foulkes, M. Bonitz. Ab initio quantum Monte Carlo simulation of the warm dense electron gas, `Phys. Plasmas 24, 056303 (2017) <https://doi.org/10.1063/1.4977920>`_.
 
 F.D. Malone, N.S. Blunt, E.W. Brown, D.K.K. Lee, J.S. Spencer, W.M.C. Foulkes, J.J. Shepherd. Accurate exchange-correlation energies for the warm dense electron gas, `Phys. Rev. Lett. 117, 115701 (2016) <https://doi.org/10.1103/PhysRevLett.117.115701>`_.
 
