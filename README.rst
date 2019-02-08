@@ -33,15 +33,15 @@ HANDE development team
 
 Code, theory, applications, etc:
 
-*Alex Thom (University of Cambridge)
-*Nick Blunt (University of Cambridge)
-*Fionn Malone (Lawrence Livermore National Laboratory)
-*Matthew Foulkes (Imperial College London)
-*Charlie Scott (University of Cambridge)
-*Verena Neufeld (University of Cambridge)
-*James Shepherd (University of Iowa)
-*Roberto Di Remigio (University of Tromsø and Virginia Tech)
-*Maria-Andreea Filip (University of Cambridge)
+* Alex Thom (University of Cambridge)
+* Nick Blunt (University of Cambridge)
+* Fionn Malone (Lawrence Livermore National Laboratory)
+* Matthew Foulkes (Imperial College London)
+* Charlie Scott (University of Cambridge)
+* Verena Neufeld (University of Cambridge)
+* James Shepherd (University of Iowa)
+* Roberto Di Remigio (University of Tromsø and Virginia Tech)
+* Maria-Andreea Filip (University of Cambridge)
 
 Past contributors:
 
