@@ -21,7 +21,7 @@ HANDE can treat a variety of quantum systems, including molecular systems (via
 integrals obtained from a quantum chemistry package) and the uniform electron
 gas as well as the Hubbard and Heisenberg models.
 
-HANDE version 1.3 can be obtained from https://github.com/hande-qmc/hande.
+HANDE version 1.4 can be obtained from https://github.com/hande-qmc/hande.
 
 For any questions on using and/or developing HANDE, please contact Alex in the
 first instance:
@@ -33,19 +33,19 @@ HANDE development team
 
 Code, theory, applications, etc:
 
-* Alex Thom (University of Cambridge)
-* Nick Blunt (University of Cambridge)
-* Fionn Malone (Lawrence Livermore National Laboratory)
-* Charlie Scott (University of Cambridge)
-* Verena Neufeld (University of Cambridge)
-* Roberto Di Remigio (University of Tromsø and Virginia Tech.)
-* Maria-Andreea Filip (University of Cambridge)
-* James Shepherd (University of Iowa)
-* James Spencer (Imperial College London)
-* Matthew Foulkes (Imperial College London)
+*Alex Thom (University of Cambridge)
+*Nick Blunt (University of Cambridge)
+*Fionn Malone (Lawrence Livermore National Laboratory)
+*Matthew Foulkes (Imperial College London)
+*Charlie Scott (University of Cambridge)
+*Verena Neufeld (University of Cambridge)
+*James Shepherd (University of Iowa)
+*Roberto Di Remigio (University of Tromsø and Virginia Tech)
+*Maria-Andreea Filip (University of Cambridge)
 
 Past contributors:
 
+* James Spencer (Imperial College London)
 * Seonghoon Choi (was at University of Cambridge, now EPFL Lausanne)
 * Thomas Rogers (Imperial College London)
 * Will Handley (University of Cambridge)
@@ -55,7 +55,7 @@ Past contributors:
 
 For an overview of HANDE see
 
-J.S. Spencer, N.S. Blunt, S. Choi, J. Etrych, M.-A. Filip, W.M.C. Foulkes, R.S.T. Franklin, W.J. Handley, F.D. Malone, V.A. Neufeld, R. Di Remigio, T.W. Rogers, C.J.C. Scott, J.J. Shepherd, J. Weston, W.A. Vigor, R. Xu, A.J.W. Thom. The HANDE-QMC project: open-source stochastic quantum chemistry from the ground state up, `arXiv preprint arXiv:1811.11679 (2018) <https://arxiv.org/abs/1811.11679>`_.
+J.S. Spencer, N.S. Blunt, S. Choi, J. Etrych, M.-A. Filip, W.M.C. Foulkes, R.S.T. Franklin, W.J. Handley, F.D. Malone, V.A. Neufeld, R. Di Remigio, T.W. Rogers, C.J.C. Scott, J.J. Shepherd, J. Weston, W.A. Vigor, R. Xu, A.J.W. Thom. The HANDE-QMC project: open-source stochastic quantum chemistry from the ground state up, `J. Chem. Theory Comput. (2019) <https://pubs.acs.org/doi/10.1021/acs.jctc.8b012179>`_.
 
 
 Publications
