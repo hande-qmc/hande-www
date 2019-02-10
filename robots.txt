@@ -1,2 +1,4 @@
 Sitemap: http://hande.org.uk/sitemapindex.xml
 
+User-Agent: *
+Host: hande.org.uk

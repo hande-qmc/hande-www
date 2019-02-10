@@ -55,12 +55,12 @@ Past contributors:
 
 For an overview of HANDE see
 
-J.S. Spencer, N.S. Blunt, S. Choi, J. Etrych, M.-A. Filip, W.M.C. Foulkes, R.S.T. Franklin, W.J. Handley, F.D. Malone, V.A. Neufeld, R. Di Remigio, T.W. Rogers, C.J.C. Scott, J.J. Shepherd, J. Weston, W.A. Vigor, R. Xu, A.J.W. Thom. The HANDE-QMC project: open-source stochastic quantum chemistry from the ground state up, `J. Chem. Theory Comput. (2019) <https://pubs.acs.org/doi/10.1021/acs.jctc.8b012179>`_.
+J.S. Spencer, N.S. Blunt, S. Choi, J. Etrych, M.-A. Filip, W.M.C. Foulkes, R.S.T. Franklin, W.J. Handley, F.D. Malone, V.A. Neufeld, R. Di Remigio, T.W. Rogers, C.J.C. Scott, J.J. Shepherd, J. Weston, W.A. Vigor, R. Xu, A.J.W. Thom. The HANDE-QMC project: open-source stochastic quantum chemistry from the ground state up, `J. Chem. Theory Comput. (2019) <https://pubs.acs.org/doi/10.1021/acs.jctc.8b01217>`_.
 
 
 Publications
 ------------
-V.A. Neufeld, A.J.W. Thom. Exciting determinants in Quantum Monte Carlo: Loading the dice with fast, low memory weights, `J. Chem. Theory Comput. in press (2019) <https://doi.org/10.1021/acs.jctc.8b00844>`_
+V.A. Neufeld, A.J.W. Thom. Exciting determinants in Quantum Monte Carlo: Loading the dice with fast, low memory weights, `J. Chem. Theory Comput. 15, 1, 127-140 (2019) <https://doi.org/10.1021/acs.jctc.8b00844>`_
 
 J.S. Spencer, V.A. Neufeld, W.A. Vigor, R.S.T. Franklin, A.J.W. Thom. Large scale parallelization in stochastic coupled cluster,  `J. Chem. Phys. 149, 204103 (2018) <https://doi.org/10.1063/1.5047420>`_.
 
