@@ -21,7 +21,7 @@ HANDE can treat a variety of quantum systems, including molecular systems (via
 integrals obtained from a quantum chemistry package) and the uniform electron
 gas as well as the Hubbard and Heisenberg models.
 
-HANDE version 1.4 can be obtained from https://github.com/hande-qmc/hande.
+HANDE version 1.5 can be obtained from https://github.com/hande-qmc/hande.
 
 For any questions on using and/or developing HANDE, please contact Alex in the
 first instance:
@@ -42,6 +42,9 @@ Code, theory, applications, etc:
 * James Shepherd (University of Iowa)
 * Roberto Di Remigio (University of Tromsø and Virginia Tech)
 * Maria-Andreea Filip (University of Cambridge)
+* Hayley Petras (University of Iowa)
+* Christopher Bradley (Imperial College London)
+* Tiger Zhang (University of Cambridge)
 
 Past contributors:
 
@@ -55,11 +58,21 @@ Past contributors:
 
 For an overview of HANDE see
 
-J.S. Spencer, N.S. Blunt, S. Choi, J. Etrych, M.-A. Filip, W.M.C. Foulkes, R.S.T. Franklin, W.J. Handley, F.D. Malone, V.A. Neufeld, R. Di Remigio, T.W. Rogers, C.J.C. Scott, J.J. Shepherd, J. Weston, W.A. Vigor, R. Xu, A.J.W. Thom. The HANDE-QMC project: open-source stochastic quantum chemistry from the ground state up, `J. Chem. Theory Comput. (2019) <https://pubs.acs.org/doi/10.1021/acs.jctc.8b01217>`_.
+J.S. Spencer, N.S. Blunt, S. Choi, J. Etrych, M.-A. Filip, W.M.C. Foulkes, R.S.T. Franklin, W.J. Handley, F.D. Malone, V.A. Neufeld, R. Di Remigio, T.W. Rogers, C.J.C. Scott, J.J. Shepherd, J. Weston, W.A. Vigor, R. Xu, A.J.W. Thom. The HANDE-QMC project: open-source stochastic quantum chemistry from the ground state up, `J. Chem. Theory Comput. 15, 3, 1728-1742 (2019) <https://pubs.acs.org/doi/10.1021/acs.jctc.8b01217>`_.
 
 
 Publications
 ------------
+T.M. Mihm, W.Z. Van Benschoten, J.J. Shepherd, `J. Chem. Phys. 154, 024113 (2021) <https://doi.org/10.1063/5.0033408`_.
+
+M-A. Filip, A.J.W. Thom. A stochastic approach to unitary coupled cluster, `J. Chem. Phys. 153, 214106 (2020) <https://doi.org/10.1063/5.0026141>`_.
+
+V.A. Neufeld, A.J.W. Thom. Accelerating Convergence in Fock Space Quantum Monte Carlo Methods, `J. Chem. Theory Comput. 16, 3, 1503-1510 (2020) <https://doi.org/10.1021/acs.jctc.9b01023>`_.
+
+M-A. Filip, C.J.C. Scott, A.J.W. Thom. Multireference Stochastic Coupled Cluster, `J. Chem. Theory Comput. 15, 12, 6625-6635 (2019) <https://doi.org/10.1021/acs.jctc.9b00741>`_.
+
+H.R. Petras, D.S. Graham, S.K. Ramadugu, J.D. Goodpaster, J.J. Shepherd. Fully Quantum Embedding with Density Functional Theory for Full Configuration Quantum Monte Carlo, `J. Chem. Theory Comput. 15, 10, 5332-5342 (2019) <https://doi.org/10.1021/acs.jctc.9b00571>`_.
+
 V.A. Neufeld, A.J.W. Thom. Exciting determinants in Quantum Monte Carlo: Loading the dice with fast, low memory weights, `J. Chem. Theory Comput. 15, 1, 127-140 (2019) <https://doi.org/10.1021/acs.jctc.8b00844>`_
 
 J.S. Spencer, V.A. Neufeld, W.A. Vigor, R.S.T. Franklin, A.J.W. Thom. Large scale parallelization in stochastic coupled cluster,  `J. Chem. Phys. 149, 204103 (2018) <https://doi.org/10.1063/1.5047420>`_.
@@ -95,10 +108,9 @@ J.S. Spencer, N.S. Blunt, W.M.C. Foulkes. The sign problem and population dynami
 Funding
 -------
 
-Our team receives funding from EPSRC, the Royal Society, the Royal Commission for
+Our team has received funding and resources from EPSRC, the Royal Society, the Royal Commission for
 the Exhibition of 1851, ARCHER Leadership Grant, EPSRC Centre for Doctoral Training in Computational
-Methods for Materials Science, Sims Fund, St John's college Cambridge.
-We are also grateful for a research environment provided by the Thomas Young Centre.
+Methods for Materials Science, Sims Fund, St John's College Cambridge, Magdalene College Cambridge, Cambridge Trust, the Thomas Young Centre.
 
 References
 ----------
