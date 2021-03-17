@@ -63,7 +63,7 @@ J.S. Spencer, N.S. Blunt, S. Choi, J. Etrych, M.-A. Filip, W.M.C. Foulkes, R.S.T
 
 Publications
 ------------
-T.M. Mihm, W.Z. Van Benschoten, J.J. Shepherd, `J. Chem. Phys. 154, 024113 (2021) <https://doi.org/10.1063/5.0033408`_.
+T.M. Mihm, W.Z. Van Benschoten, J.J. Shepherd, `J. Chem. Phys. 154, 024113 (2021) <https://doi.org/10.1063/5.0033408>`_.
 
 M-A. Filip, A.J.W. Thom. A stochastic approach to unitary coupled cluster, `J. Chem. Phys. 153, 214106 (2020) <https://doi.org/10.1063/5.0026141>`_.
 
