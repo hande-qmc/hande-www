@@ -6,23 +6,27 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
+  <loc>http://hande.org.uk/</loc>
+  <lastmod>2021-03-17T13:30:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://hande.org.uk/archive.html</loc>
-  <lastmod>2019-02-10T14:23:00Z</lastmod>
+  <lastmod>2021-03-17T13:30:00Z</lastmod>
  </url>
  <url>
-  <loc>http://hande.org.uk/blog/index.html</loc>
-  <lastmod>2019-02-10T14:23:00Z</lastmod>
+  <loc>http://hande.org.uk/blog/</loc>
+  <lastmod>2019-02-08T11:56:00Z</lastmod>
  </url>
  <url>
-  <loc>http://hande.org.uk/categories/index.html</loc>
-  <lastmod>2019-02-10T14:23:00Z</lastmod>
- </url>
- <url>
-  <loc>http://hande.org.uk/index.html</loc>
-  <lastmod>2019-02-10T14:23:00Z</lastmod>
+  <loc>http://hande.org.uk/categories/</loc>
+  <lastmod>2019-02-08T11:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://hande.org.uk/test.html</loc>
-  <lastmod>2019-02-10T14:23:00Z</lastmod>
+  <lastmod>2019-02-08T11:56:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://hande.org.uk/test/</loc>
+  <lastmod>2021-03-17T13:30:00Z</lastmod>
  </url>
 </urlset>
