@@ -115,7 +115,8 @@ Funding
 Our team has received funding and resources from EPSRC, the Royal Society, the Royal Commission for
 the Exhibition of 1851, ARCHER Leadership Grant, EPSRC Centre for Doctoral Training in Computational
 Methods for Materials Science, Sims Fund, St John's College Cambridge, Magdalene College Cambridge, 
-Cambridge Trust, the Thomas Young Centre, the Walters-Kundert Next Generation Fellowship Fund.
+Cambridge Trust, the Thomas Young Centre, the Walters-Kundert Next Generation Fellowship Fund, the 
+Department of Energy.
 
 References
 ----------
