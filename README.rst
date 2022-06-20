@@ -40,7 +40,7 @@ Code, theory, applications, etc:
 * Fionn Malone (Lawrence Livermore National Laboratory)
 * Matthew Foulkes (Imperial College London)
 * Charlie Scott (University of Cambridge)
-* Verena Neufeld (University of Cambridge)
+* Verena Neufeld (University of Cambridge, now Columbia University)
 * James Shepherd (University of Iowa)
 * Roberto Di Remigio (University of Tromsø and Virginia Tech)
 * Maria-Andreea Filip (University of Cambridge)
