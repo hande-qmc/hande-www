@@ -16,7 +16,8 @@ and formerly Dr James Spencer (Imperial College London).
 HANDE contains highly scalable implementations of the full configuration interaction
 quantum Monte Carlo [1]_ and coupled cluster Monte Carlo [2]_ methods including the
 initiator approximation [3]_ and semi-stochastic approach [4]_, as well as the
-density matrix quantum Monte Carlo method [5]_.
+density matrix quantum Monte Carlo method [5]_ and unitary coupled cluster Monte Carlo
+algorithms [6]_.
 HANDE can treat a variety of quantum systems, including molecular systems (via
 integrals obtained from a quantum chemistry package) and the uniform electron
 gas as well as the Hubbard and Heisenberg models.
