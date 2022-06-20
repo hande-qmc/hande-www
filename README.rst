@@ -45,10 +45,12 @@ Code, theory, applications, etc:
 * Hayley Petras (University of Iowa)
 * Christopher Bradley (Imperial College London)
 * Tiger Zhang (University of Cambridge)
+* William Van (Benschoten, University of Iowa)
+* Brian Zhao (University of Cambridge)
 
 Past contributors:
 
-* James Spencer (Imperial College London)
+* James Spencer (Former Lead Developer, Imperial College London)
 * Seonghoon Choi (was at University of Cambridge, now EPFL Lausanne)
 * Thomas Rogers (Imperial College London)
 * Will Handley (University of Cambridge)
