@@ -21,10 +21,11 @@ HANDE can treat a variety of quantum systems, including molecular systems (via
 integrals obtained from a quantum chemistry package) and the uniform electron
 gas as well as the Hubbard and Heisenberg models.
 
-HANDE version 1.5 can be obtained from https://github.com/hande-qmc/hande.
+HANDE version 1.6 can be obtained from https://github.com/hande-qmc/hande.
 
-For any questions on using and/or developing HANDE, please contact Alex in the
-first instance:
+There is a HANDE users mailing list where you can ask questions and get announcements of releases. See https://groups.google.com/g/hande-user where you can view any posts and sign up.
+
+For any questions on using and/or developing HANDE, please contact the mailing list or Alex:
 
 | Alex Thom, ajwt3@cam.ac.uk
 
@@ -45,7 +46,7 @@ Code, theory, applications, etc:
 * Hayley Petras (University of Iowa)
 * Christopher Bradley (Imperial College London)
 * Tiger Zhang (University of Cambridge)
-* William Van (Benschoten, University of Iowa)
+* William Van Benschoten (University of Iowa)
 * Brian Zhao (University of Cambridge)
 
 Past contributors:
@@ -112,7 +113,8 @@ Funding
 
 Our team has received funding and resources from EPSRC, the Royal Society, the Royal Commission for
 the Exhibition of 1851, ARCHER Leadership Grant, EPSRC Centre for Doctoral Training in Computational
-Methods for Materials Science, Sims Fund, St John's College Cambridge, Magdalene College Cambridge, Cambridge Trust, the Thomas Young Centre.
+Methods for Materials Science, Sims Fund, St John's College Cambridge, Magdalene College Cambridge, 
+Cambridge Trust, the Thomas Young Centre, the Walters-Kundert Next Generation Fellowship Fund.
 
 References
 ----------
@@ -122,3 +124,5 @@ References
 .. [3] Survival of the Fittest: Accelerating Convergence in Full Configuration-Interaction Quantum Monte Carlo , D. Cleland, G.H. Booth, A. Alavi, J. Chem. Phys., 132, 041103 (2010).
 .. [4] Semistochastic Projector Monte Carlo Method.  F. Petruzielo, A. Holmes, H. Changlani, M. Nightingale, C. Umrigar, Phys. Rev. Lett. 109, 230201 (2012).
 .. [5] Density-matrix quantum Monte Carlo method.  N.S. Blunt, T. W. Rogers, J. S. Spencer, and W. M. C. Foulkes,  Phys. Rev. B, 89, 245124 (2014).
+.. [6] A stochastic approach to unitary coupled cluster. M-A. Filip, A.J.W. Thom, J. Chem. Phys. 153, 214106 (2020).
+
