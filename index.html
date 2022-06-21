@@ -43,15 +43,16 @@ development, run by a non-profit community of UK academics headed by Dr Alex Tho
 development, run by a non-profit community of UK academics headed by Dr Alex Thom (University of Cambridge),
 and formerly Dr James Spencer (Imperial College London).</p>
 <p>HANDE contains highly scalable implementations of the full configuration interaction
-quantum Monte Carlo <a class="footnote-reference brackets" href="#id6" id="id1">1</a> and coupled cluster Monte Carlo <a class="footnote-reference brackets" href="#id7" id="id2">2</a> methods including the
-initiator approximation <a class="footnote-reference brackets" href="#id8" id="id3">3</a> and semi-stochastic approach <a class="footnote-reference brackets" href="#id9" id="id4">4</a>, as well as the
-density matrix quantum Monte Carlo method <a class="footnote-reference brackets" href="#id10" id="id5">5</a>.
+quantum Monte Carlo <a class="footnote-reference brackets" href="#id7" id="id1">1</a> and coupled cluster Monte Carlo <a class="footnote-reference brackets" href="#id8" id="id2">2</a> methods including the
+initiator approximation <a class="footnote-reference brackets" href="#id9" id="id3">3</a> and semi-stochastic approach <a class="footnote-reference brackets" href="#id10" id="id4">4</a>, as well as the
+density matrix quantum Monte Carlo method <a class="footnote-reference brackets" href="#id11" id="id5">5</a> and unitary coupled cluster Monte Carlo
+algorithms <a class="footnote-reference brackets" href="#id12" id="id6">6</a>.
 HANDE can treat a variety of quantum systems, including molecular systems (via
 integrals obtained from a quantum chemistry package) and the uniform electron
 gas as well as the Hubbard and Heisenberg models.</p>
-<p>HANDE version 1.5 can be obtained from <a class="reference external" href="https://github.com/hande-qmc/hande">https://github.com/hande-qmc/hande</a>.</p>
-<p>For any questions on using and/or developing HANDE, please contact Alex in the
-first instance:</p>
+<p>HANDE version 1.6 can be obtained from <a class="reference external" href="https://github.com/hande-qmc/hande">https://github.com/hande-qmc/hande</a>.</p>
+<p>There is a HANDE users mailing list where you can ask questions and get announcements of releases. See <a class="reference external" href="https://groups.google.com/g/hande-user">https://groups.google.com/g/hande-user</a> where you can view any posts and sign up.</p>
+<p>For any questions on using and/or developing HANDE, please contact the mailing list or Alex:</p>
 <div class="line-block">
 <div class="line">Alex Thom, <a class="reference external" href="mailto:ajwt3@cam.ac.uk">ajwt3@cam.ac.uk</a>
 </div>
@@ -65,17 +66,19 @@ first instance:</p>
 <li><p>Fionn Malone (Lawrence Livermore National Laboratory)</p></li>
 <li><p>Matthew Foulkes (Imperial College London)</p></li>
 <li><p>Charlie Scott (University of Cambridge)</p></li>
-<li><p>Verena Neufeld (University of Cambridge)</p></li>
+<li><p>Verena Neufeld (University of Cambridge, now Columbia University)</p></li>
 <li><p>James Shepherd (University of Iowa)</p></li>
 <li><p>Roberto Di Remigio (University of Tromsø and Virginia Tech)</p></li>
 <li><p>Maria-Andreea Filip (University of Cambridge)</p></li>
 <li><p>Hayley Petras (University of Iowa)</p></li>
 <li><p>Christopher Bradley (Imperial College London)</p></li>
 <li><p>Tiger Zhang (University of Cambridge)</p></li>
+<li><p>William Van Benschoten (University of Iowa)</p></li>
+<li><p>Brian Zhao (University of Cambridge)</p></li>
 </ul>
 <p>Past contributors:</p>
 <ul class="simple">
-<li><p>James Spencer (Imperial College London)</p></li>
+<li><p>James Spencer (Former Lead Developer, Imperial College London)</p></li>
 <li><p>Seonghoon Choi (was at University of Cambridge, now EPFL Lausanne)</p></li>
 <li><p>Thomas Rogers (Imperial College London)</p></li>
 <li><p>Will Handley (University of Cambridge)</p></li>
@@ -114,36 +117,42 @@ first instance:</p>
 <h3>Funding</h3>
 <p>Our team has received funding and resources from EPSRC, the Royal Society, the Royal Commission for
 the Exhibition of 1851, ARCHER Leadership Grant, EPSRC Centre for Doctoral Training in Computational
-Methods for Materials Science, Sims Fund, St John's College Cambridge, Magdalene College Cambridge, Cambridge Trust, the Thomas Young Centre.</p>
+Methods for Materials Science, Sims Fund, St John's College Cambridge, Magdalene College Cambridge,
+Cambridge Trust, the Thomas Young Centre, the Walters-Kundert Next Generation Fellowship Fund, the
+U.S. Department of Energy Office of Science.</p>
 </div>
 <div class="section" id="references">
 <h3>References</h3>
 <dl class="footnote brackets">
-<dt class="label" id="id6"><span class="brackets"><a class="fn-backref" href="#id1">1</a></span></dt>
+<dt class="label" id="id7"><span class="brackets"><a class="fn-backref" href="#id1">1</a></span></dt>
 <dd>
 <p>Fermion Monte Carlo without fixed nodes a game of life, death, and annihilation in Slater determinant space, G.H. Booth, A.J.W. Thom, A. Alavi, J. Chem. Phys., 131 054106 (2009).</p>
 </dd>
-<dt class="label" id="id7"><span class="brackets"><a class="fn-backref" href="#id2">2</a></span></dt>
+<dt class="label" id="id8"><span class="brackets"><a class="fn-backref" href="#id2">2</a></span></dt>
 <dd>
 <p>Stochastic Coupled Cluster Theory, A.J.W. Thom, Phys. Rev. Lett. 105, 263004 (2010).</p>
 </dd>
-<dt class="label" id="id8"><span class="brackets"><a class="fn-backref" href="#id3">3</a></span></dt>
+<dt class="label" id="id9"><span class="brackets"><a class="fn-backref" href="#id3">3</a></span></dt>
 <dd>
 <p>Survival of the Fittest: Accelerating Convergence in Full Configuration-Interaction Quantum Monte Carlo , D. Cleland, G.H. Booth, A. Alavi, J. Chem. Phys., 132, 041103 (2010).</p>
 </dd>
-<dt class="label" id="id9"><span class="brackets"><a class="fn-backref" href="#id4">4</a></span></dt>
+<dt class="label" id="id10"><span class="brackets"><a class="fn-backref" href="#id4">4</a></span></dt>
 <dd>
 <p>Semistochastic Projector Monte Carlo Method.  F. Petruzielo, A. Holmes, H. Changlani, M. Nightingale, C. Umrigar, Phys. Rev. Lett. 109, 230201 (2012).</p>
 </dd>
-<dt class="label" id="id10"><span class="brackets"><a class="fn-backref" href="#id5">5</a></span></dt>
+<dt class="label" id="id11"><span class="brackets"><a class="fn-backref" href="#id5">5</a></span></dt>
 <dd>
 <p>Density-matrix quantum Monte Carlo method.  N.S. Blunt, T. W. Rogers, J. S. Spencer, and W. M. C. Foulkes,  Phys. Rev. B, 89, 245124 (2014).</p>
+</dd>
+<dt class="label" id="id12"><span class="brackets"><a class="fn-backref" href="#id6">6</a></span></dt>
+<dd>
+<p>A stochastic approach to unitary coupled cluster. M-A. Filip, A.J.W. Thom, J. Chem. Phys. 153, 214106 (2020).</p>
 </dd>
 </dl>
 </div>
 </div>
     </div>
-</article><footer id="footer"><p>Contents © 2021         <a href="mailto:j.spencer@imperial.ac.uk">James Spencer</a> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a>         
+</article><footer id="footer"><p>Contents © 2022         <a href="mailto:j.spencer@imperial.ac.uk">James Spencer</a> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a>         
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/ar/">
 <img alt="Creative Commons License BY-NC-SA" style="border-width:0; margin-bottom:12px;" src="http://i.creativecommons.org/l/by-nc-sa/2.5/ar/88x31.png"></a></p>
             
